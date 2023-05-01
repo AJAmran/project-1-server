@@ -2,57 +2,22 @@
     {
         "id": 1,
         "chef_name": "Maria Rodriguez",
-        "chef_img": "https://example.com/chef1.jpg",
+        "chef_img": "https://freepngimg.com/thumb/man/22654-6-man-thumb.png",
         "num_recipes": 6,
         "recipes": [
             {
                 "name": "Chimichurri Steak",
                 "description": "A classic Argentinian dish with juicy grilled steak and a tangy herb sauce.",
-                "ingredients": ["steak", "garlic", "parsley", "oregano", "red pepper flakes", "red wine vinegar", "olive oil", "salt", "pepper"],
-                "instructions": ["Preheat grill to high heat.", "In a blender or food processor, combine garlic, parsley, oregano, red pepper flakes, red wine vinegar, olive oil, salt, and pepper. Blend until smooth.", "Rub the mixture all over the steak.", "Grill the steak for 3-4 minutes per side, or until desired doneness is reached.", "Let the steak rest for a few minutes before slicing and serving."],
-                "image": "https://example.com/chimichurri.jpg",
-                "likes": 800
+                "ingredients": ["steak", "garlic", "parsley", "oregano", "red pepper flakes"],
+                "instructions": ["Preheat grill to high heat.", "In a blender or food processor, combine garlic, parsley, oregano, red pepper flakes, red wine vinegar, olive oil, salt, and pepper. Blend until smooth.", "Rub the mixture all over the steak.", "Grill the steak for 3-4 minutes per side"],
+                "image": "https://example.com/chimichurri.jpg"
             },
             {
                 "name": "Empanadas",
                 "description": "A savory pastry filled with beef, onions, and spices.",
-                "ingredients": ["ground beef", "onion", "green bell pepper", "red bell pepper", "cumin", "paprika", "olives", "raisins", "egg", "pastry dough"],
-                "instructions": ["Preheat oven to 375°F.", "In a large pan, cook ground beef until browned. Drain excess fat.", "Add onion, green bell pepper, and red bell pepper to the pan. Cook until softened.", "Add cumin, paprika, olives, and raisins to the pan. Stir to combine.", "Roll out pastry dough and cut into circles.", "Place a spoonful of the beef mixture onto each circle of dough.", "Fold the dough over to enclose the filling, and press the edges together to seal.", "Beat an egg in a bowl and brush it over the tops of the empanadas.", "Bake for 20-25 minutes, or until golden brown."],
-                "image": "https://example.com/empanadas.jpg",
-                "likes": 600
-            },
-            {
-                "name": "Spaghetti Carbonara",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi.",
-                "ingredients": ["spaghetti", "bacon", "egg", "parmesan", "onion"],
-                "instructions": ["Cook spaghetti according to package instructions.", "Cook bacon in a pan until crispy.", "In a bowl, whisk together egg and parmesan.", "Drain spaghetti and add to the pan with bacon. Turn off the heat.", "Pour the egg mixture over the spaghetti and bacon, and stir until the sauce thickens and coats the spaghetti.", "Serve immediately."],
-                "image": "https://example.com/spaghetti.jpg",
-                "likes": 500
-            }
-
-        ]
-    },
-    {
-        "id": 2,
-        "chef_name": "Maria Rodriguez",
-        "chef_img": "https://example.com/chef1.jpg",
-        "num_recipes": 6,
-        "recipes": [
-            {
-                "name": "Chimichurri Steak",
-                "description": "A classic Argentinian dish with juicy grilled steak and a tangy herb sauce.",
-                "ingredients": ["steak", "garlic", "parsley", "oregano", "red pepper flakes", "red wine vinegar", "olive oil", "salt", "pepper"],
-                "instructions": ["Preheat grill to high heat.", "In a blender or food processor, combine garlic, parsley, oregano, red pepper flakes, red wine vinegar, olive oil, salt, and pepper. Blend until smooth.", "Rub the mixture all over the steak.", "Grill the steak for 3-4 minutes per side, or until desired doneness is reached.", "Let the steak rest for a few minutes before slicing and serving."],
-                "image": "https://example.com/chimichurri.jpg",
-                "likes": 800
-            },
-            {
-                "name": "Empanadas",
-                "description": "A savory pastry filled with beef, onions, and spices.",
-                "ingredients": ["ground beef", "onion", "green bell pepper", "red bell pepper", "cumin", "paprika", "olives", "raisins", "egg", "pastry dough"],
-                "instructions": ["Preheat oven to 375°F.", "In a large pan, cook ground beef until browned. Drain excess fat.", "Add onion, green bell pepper, and red bell pepper to the pan. Cook until softened.", "Add cumin, paprika, olives, and raisins to the pan. Stir to combine.", "Roll out pastry dough and cut into circles.", "Place a spoonful of the beef mixture onto each circle of dough.", "Fold the dough over to enclose the filling, and press the edges together to seal.", "Beat an egg in a bowl and brush it over the tops of the empanadas.", "Bake for 20-25 minutes, or until golden brown."],
-                "image": "https://example.com/empanadas.jpg",
-                "likes": 600
+                "ingredients": ["green bell pepper", "paprika", "olives", "raisins", "egg", "pastry dough"],
+                "instructions": ["Preheat oven to 375°F.", "In a large pan, cook ground beef until browned. Drain excess fat.", "Add onion, green bell pepper, and red bell pepper to the pan. Cook until softened.", "Add cumin, paprika, olives, and raisins to the pan. Stir to combine.", "Roll out pastry dough and cut into circles.", "Place a spoonful of the beef mixture onto each circle of dough."],
+                "image": "https://example.com/empanadas.jpg"
             },
             {
                 "name": "Spaghetti Carbonara",
@@ -65,9 +30,39 @@
         ]
     },
     {
+        "id": 2,
+        "chef_name": "Maria Rodriguez",
+        "chef_img": "https://freepngimg.com/thumb/man/22654-6-man-thumb.png",
+        "num_recipes": 6,
+        "recipes": [
+            {
+                "name": "Shrimp Alfredo",
+                "description": "A classic Argentinian dish with juicy grilled steak and a tangy herb sauce.",
+                "ingredients": ["garlic", "parsley", "oregano", "red pepper flakes", "red wine vinegar"],
+                "instructions": ["In a blender or food processor, combine garlic, parsley, oregano, red pepper flakes, red wine vinegar, olive oil, salt, and pepper. Blend until smooth.", "Rub the mixture all over the steak.", "Grill the steak for 3-4 minutes per side, or until desired doneness is reached."],
+                "image": "https://example.com/chimichurri.jpg"
+            },
+            {
+                "name": "Tomato Basil Soup",
+                "description": "A savory pastry filled with beef, onions, and spices.",
+                "ingredients": ["onion", "green bell pepper", "paprika", "olives", "raisins"],
+                "instructions": ["Add cumin, paprika, olives, and raisins to the pan. Stir to combine.", "Roll out pastry dough and cut into circles.", "Place a spoonful of the beef mixture onto each circle of dough.", "Fold the dough over to enclose the filling, and press the edges together to seal.", "Beat an egg in a bowl and brush it over the tops of the empanadas.", "Bake for 20-25 minutes, or until golden brown."],
+                "image": "https://example.com/empanadas.jpg"
+            },
+            {
+                "name": "Beef and Broccoli Stir Fry",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi.",
+                "ingredients": ["spaghetti", "bacon", "egg", "parmesan", "onion"],
+                "instructions": ["Cook spaghetti according to package instructions.", "Cook bacon in a pan until crispy.", "In a bowl, whisk together egg and parmesan.", "Drain spaghetti and add to the pan with bacon. Turn off the heat.", "Pour the egg mixture over the spaghetti and bacon, and stir until the sauce thickens and coats the spaghetti.", "Serve immediately."],
+                "image": "https://example.com/spaghetti.jpg"
+            }
+
+        ]
+    },
+    {
         "id": 3,
         "chef_name": "Maria Rodriguez",
-        "chef_img": "https://example.com/chef1.jpg",
+        "chef_img": "https://freepngimg.com/thumb/man/22654-6-man-thumb.png",
         "num_recipes": 6,
         "recipes": [
             {
@@ -97,7 +92,7 @@
     {
         "id": 4,
         "chef_name": "Maria Rodriguez",
-        "chef_img": "https://example.com/chef1.jpg",
+        "chef_img": "https://freepngimg.com/thumb/man/22654-6-man-thumb.png",
         "num_recipes": 6,
         "recipes": [
             {
@@ -127,7 +122,7 @@
     {
         "id": 5,
         "chef_name": "Maria Rodriguez",
-        "chef_img": "https://example.com/chef1.jpg",
+        "chef_img": "https://freepngimg.com/thumb/man/22654-6-man-thumb.png",
         "num_recipes": 6,
         "recipes": [
             {
@@ -156,7 +151,7 @@
     {
             "id": 6,
             "chef_name": "Gomez Rodriguez",
-            "chef_img": "https://example.com/chef1.jpg",
+            "chef_img": "https://freepngimg.com/thumb/man/22654-6-man-thumb.png",
             "num_recipes": 6,
             "recipes": [
                 {
