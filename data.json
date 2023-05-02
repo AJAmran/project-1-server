@@ -2,8 +2,9 @@
     {
         "id": 1,
         "chef_name": "Maria Rodriguez",
-        "chef_img": "https://freepngimg.com/thumb/man/22654-6-man-thumb.png",
+        "chef_img": "https://mn2s-content.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/11/02174308/Gennaro-Contaldo.png",
         "num_recipes": 6,
+        "experience": "5 years",
         "recipes": [
             {
                 "name": "Chimichurri Steak",
@@ -32,8 +33,9 @@
     {
         "id": 2,
         "chef_name": "Maria Rodriguez",
-        "chef_img": "https://freepngimg.com/thumb/man/22654-6-man-thumb.png",
+        "chef_img": "https://i.dailymail.co.uk/1s/2019/04/17/01/12365980-6930129-image-a-25_1555459844494.jpg",
         "num_recipes": 6,
+        "experience": "10 years",
         "recipes": [
             {
                 "name": "Shrimp Alfredo",
@@ -62,8 +64,9 @@
     {
         "id": 3,
         "chef_name": "Maria Rodriguez",
-        "chef_img": "https://freepngimg.com/thumb/man/22654-6-man-thumb.png",
+        "chef_img": "https://media.istockphoto.com/id/1399044387/photo/male-chef-in-white-uniform-pouring-boiled-spaghetti-into-pan-wok-for-cooking-pasta-with.jpg?b=1&s=170667a&w=0&k=20&c=rzwcwNsdtstH4iA2V6Mip8IDm1dIgvHCUzb4U4eyYf8=",
         "num_recipes": 6,
+        "experience": "8 years",
         "recipes": [
             {
                 "name": "Garlic Bread",
@@ -92,8 +95,9 @@
     {
         "id": 4,
         "chef_name": "Maria Rodriguez",
-        "chef_img": "https://freepngimg.com/thumb/man/22654-6-man-thumb.png",
+        "chef_img": "https://media.lacucinaitaliana.com/photos/60cce0b1096957fbab0d557b/master/w_900,c_limit/210601_CasaLimone_18245.jpg",
         "num_recipes": 6,
+        "experience": "4 years",
         "recipes": [
             {
                 "name": "Roasted Chicken",
@@ -122,8 +126,9 @@
     {
         "id": 5,
         "chef_name": "Maria Rodriguez",
-        "chef_img": "https://freepngimg.com/thumb/man/22654-6-man-thumb.png",
+        "chef_img": "https://www.outlookindia.com/outlooktraveller/resizer.php?src=https://www.outlookindia.com/outlooktraveller/public/uploads/files/2015/03/091015143231-JAMIE.ITALIAN.0300.jpg&w=500&h=400",
         "num_recipes": 6,
+        "experience": "7 years",
         "recipes": [
             {
                 "name": "Chimichurri Steak",
@@ -151,8 +156,9 @@
     {
             "id": 6,
             "chef_name": "Gomez Rodriguez",
-            "chef_img": "https://freepngimg.com/thumb/man/22654-6-man-thumb.png",
+            "chef_img": "https://cdn.create.vista.com/api/media/medium/177187498/stock-photo-smiling-chef-holding-plate-pasta?token=",
             "num_recipes": 6,
+            "experience": "3 years",
             "recipes": [
                 {
                     "name": "Lemon Pepper Salmon",
